@@ -35,4 +35,4 @@ class Anagram
 end
 
 boy = Anagram.new("boy")
-puts boy.match(["ih", "hello", "yob"])
+puts boy.match(["ih", "hello"])
